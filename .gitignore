@@ -1,0 +1,18 @@
+# Log Files
+*.log
+
+# Windows thumbnail db
+Thumbs.db
+
+# OSX files
+.DS_Store
+
+# Local-only
+.obsidian/
+
+# Community plugins
+.smtcmp_json_db/
+.smtcmp_vector_db.tar.gz
+
+# IDE
+.idea/
