@@ -9,6 +9,7 @@ Thumbs.db
 
 # Local-only
 .obsidian/
+/🗞\ Templates/
 
 # Community plugins
 .smtcmp_json_db/
