@@ -5,6 +5,7 @@ importance: High
 originated from:
   - "[[📘 코틀린 코루틴의 정석/2장 - 코루틴 개발 환경 설정]]"
   - "[[📘 코틀린 코루틴의 정석/7장 - 구조화된 동시성]]"
+  - "[[📘 코틀린 동시성 프로그래밍/1장 - Hello, Concurrent World!]]"
 answered by:
   - Book
 parent pages:
@@ -33,6 +34,7 @@ public fun CoroutineScope.launch(
 
 ##### ➕ Extra
 ---
+- 결과를 반환하지 않는 코루틴을 생성함
 - 관련 매개변수 ^desc-2
 	- [CoroutineContext](CoroutineContext.md)
 	- [CoroutineStart](CoroutineStart.md)

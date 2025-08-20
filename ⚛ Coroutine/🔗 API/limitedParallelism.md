@@ -25,7 +25,7 @@ public abstract class CoroutineDispatcher : AbstractCoroutineContextElement(Cont
 
 ##### ℹ️ Description
 ---
-- 미리 정의된 [디스패처](디스패처.md)가 일부의 [스레드](스레드.md)만 사용해 특정 연산을 실행하도록 하는 함수
+- 미리 정의된 [디스패처](디스패처.md)가 일부의 [스레드](스레드.md)만 사용해 특정 연산을 실행하도록 하는 함수 ^desc-1
 
 ##### ➕ Extra
 ---

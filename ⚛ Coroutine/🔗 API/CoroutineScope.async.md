@@ -5,6 +5,7 @@ importance: High
 originated from:
   - "[[📘 코틀린 코루틴의 정석/5장 - async와 Deferred]]"
   - "[[📘 코틀린 코루틴의 정석/8장 - 예외 처리]]"
+  - "[[📘 코틀린 동시성 프로그래밍/1장 - Hello, Concurrent World!]]"
 answered by:
   - Book
   - OpenAI
@@ -38,7 +39,7 @@ public fun <T> CoroutineScope.async(
 
 ##### ⭐️ Feature
 ---
-- 결괏값이 있는 코루틴 객체인 [Deferred](Deferred.md)가 반환되며, [await](Deferred.await.md) 함수를 사용해 결괏값을 수신할 수 있음
+- 결괏값이 있는 코루틴 객체인 [Deferred](Deferred.md)가 반환되며, [await](Deferred.await.md) 함수를 사용해 결괏값을 수신할 수 있음함
 
 ##### 🔥 Exception Propagation
 --- 

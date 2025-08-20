@@ -2,6 +2,7 @@
 importance: Medium
 originated from:
   - "[[📘 코틀린 코루틴의 정석/11장 - 코루틴 심화]]"
+  - "[[📘 코틀린 동시성 프로그래밍/1장 - Hello, Concurrent World!]]"
 answered by:
   - Book
 parent pages: 
@@ -36,3 +37,4 @@ public fun Mutex(locked: Boolean = false): Mutex =
 - 공유 변수의 변경 가능 지점을 임계 영역으로 만들어 동시 접근을 제한함
 - 락이 해제될 때까지 다른 [코루틴](코루틴.md)이 해당 임계 영역에 진입할 수 없음
 - 다른 코루틴에 의해 락이 걸려있으면 락이 해제될 때까지 [스레드](스레드.md)를 [양보](양보.md)하고 [일시 중단](일시%20중단.md) 함
+- 임계 영역을 정의해 한 번에 하나의 스레드만 실행할 수 있도록 만드는 [동기화](데이터%20동기화.md) 메커니즘

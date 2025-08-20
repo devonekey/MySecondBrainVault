@@ -2,6 +2,7 @@
 importance: Medium
 originated from:
   - "[[📘 코틀린 코루틴의 정석/3장 - CoroutineDispatcher]]"
+  - "[[📘 코틀린 동시성 프로그래밍/1장 - Hello, Concurrent World!]]"
 answered by:
   - Book
 parent pages:
@@ -25,7 +26,7 @@ public actual fun newFixedThreadPoolContext(
 
 ##### ℹ️ Description
 ---
-- 사용할 수 있는 [스레드](스레드.md)가 한 개 이상인 [CoroutineDispatcher](CoroutineDispatcher.md) 객체를 생성하는 함수
+- 사용할 수 있는 [스레드](스레드.md)가 한 개 이상인 [CoroutineDispatcher](CoroutineDispatcher.md) 객체를 생성하는 함수 ^desc-1
 
 ##### ➕ Extra
 ---

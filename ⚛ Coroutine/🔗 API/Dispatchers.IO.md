@@ -22,7 +22,7 @@ public val IO: CoroutineDispatcher
 
 ##### ℹ️ Description
 ---
-- 네트워크 요청이나 파일 입출력 등의 입출력 작업을 위한 [CoroutineDispatcher](CoroutineDispatcher.md)
+- 네트워크 요청이나 파일 입출력 등의 입출력 작업을 위한 [CoroutineDispatcher](CoroutineDispatcher.md) ^desc-1
 
 ##### ➕ Extra
 ---

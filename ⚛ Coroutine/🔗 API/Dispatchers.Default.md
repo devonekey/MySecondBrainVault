@@ -22,7 +22,7 @@ public actual val Default: CoroutineDispatcher
 
 ##### ℹ️ Description
 ---
-- CPU를 많이 사용하는 연산 작업을 위한 [CoroutineDispatcher](CoroutineDispatcher.md)
+- CPU를 많이 사용하는 연산 작업을 위한 [CoroutineDispatcher](CoroutineDispatcher.md) ^desc-1
 - [CPU 바운드 작업](CPU%20바운드%20작업.md)이 필요할 때 사용하는 [CoroutineDispatcher](CoroutineDispatcher.md)
 
 ##### ➕ Extra
