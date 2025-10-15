@@ -47,7 +47,7 @@ class ComposeView @JvmOverloads constructor(
 ##### ⭐️ Feature
 ---
 - `setContentView`의 Compose 버전
-- `content` 블록 내에서 [@Composable](@Composable.md) 함수들을 호출하여 화면 UI를 구성
+- `content` 블록 내에서 [@Composable](@Composable.md) 함수들을 호출하여 화면 UI를 [구성](구성.md)
   → [@Composable](@Composable.md) 함수만 들어가야 함
 - 내부적으로 컴포지션 객체를 생성하고, UI 트리를 관리
 - `ComponentActivity`의 생명 주기에 맞춰 컴포지션을 관리
