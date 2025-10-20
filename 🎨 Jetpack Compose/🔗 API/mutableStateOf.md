@@ -1,5 +1,5 @@
 ---
-importance: High
+importance: Highest
 originated from:
   - "[[📘 젯팩 컴포즈로 개발하는 안드로이드 UI/1장 - 컴포즈 앱 첫 빌드]]"
 answered by:
