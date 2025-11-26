@@ -7,7 +7,7 @@ originated from:
   - "[[📘 코틀린 동시성 프로그래밍/1장 - Hello, Concurrent World!]]"
 answered by:
   - Book
-  - OpenAI
+  - GPT
 parent pages: 
 tags:
   - Coroutine

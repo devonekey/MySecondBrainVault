@@ -3,7 +3,7 @@ importance: Medium
 originated from:
   - "[[📘 젯팩 컴포즈로 개발하는 안드로이드 UI/2장 - 선언적 패러다임 이해]]"
 answered by:
-  - OpenAI
+  - GPT
 parent pages:
 tags:
   - Jetpack

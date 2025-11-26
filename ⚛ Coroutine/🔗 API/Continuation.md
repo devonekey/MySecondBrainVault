@@ -4,7 +4,7 @@ originated from:
   - "[[📘 코틀린 코루틴의 정석/11장 - 코루틴 심화]]"
 answered by:
   - Book
-  - OpenAI
+  - GPT
 parent pages: 
 tags:
   - Coroutine

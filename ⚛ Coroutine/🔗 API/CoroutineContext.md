@@ -5,7 +5,7 @@ originated from:
   - "[[📘 코틀린 코루틴의 정석/6장 - CoroutineContext]]"
 answered by:
   - Book
-  - OpenAI
+  - GPT
 parent pages: 
 tags:
   - Coroutine

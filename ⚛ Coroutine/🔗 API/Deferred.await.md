@@ -6,7 +6,7 @@ originated from:
   - "[[📘 코틀린 코루틴의 정석/5장 - async와 Deferred]]"
 answered by:
   - Book
-  - OpenAI
+  - GPT
 parent pages:
   - "[[Deferred]]"
 tags:

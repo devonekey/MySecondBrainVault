@@ -5,7 +5,7 @@ importance: Medium
 originated from:
   - "[[📘 코틀린 코루틴의 정석/3장 - CoroutineDispatcher]]"
 answered by:
-  - OpenAI
+  - GPT
 tags:
   - Coroutine
   - 코루틴
