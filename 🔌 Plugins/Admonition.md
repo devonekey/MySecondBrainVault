@@ -4,6 +4,7 @@ type:
   - Style
   - in Note
   - Block
+link: "[콜아웃을 코드블럭 형식으로 Admonition 플러그인](https://kaminik.tistory.com/entry/%EC%BD%9C%EC%95%84%EC%9B%83%EC%9D%84-%EC%BD%94%EB%93%9C%EB%B8%94%EB%9F%AD-%ED%98%95%EC%8B%9D%EC%9C%BC%EB%A1%9C-Admonition-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8)"
 ---
 ##### ℹ️ Description
 ---

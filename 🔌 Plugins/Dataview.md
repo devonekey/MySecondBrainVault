@@ -5,6 +5,7 @@ type:
   - Query
   - in Note
   - Block
+link: "[Dataview 기초: 소개](https://kaminik.tistory.com/entry/Dataview-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%EC%86%8C%EA%B0%9C)"
 ---
 ##### ℹ️ Description
 ---

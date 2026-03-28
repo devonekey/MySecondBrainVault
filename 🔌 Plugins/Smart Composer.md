@@ -2,6 +2,7 @@
 type:
   - Community Plugin
   - AI
+link: "[obsidian-smart-composer](https://github.com/glowingjade/obsidian-smart-composer)"
 ---
 ##### ℹ️ Description
 ---

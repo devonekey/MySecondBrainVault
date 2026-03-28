@@ -3,6 +3,7 @@ type:
   - Community Plugin
   - Data Visualization
   - in Note
+link: "[obsidian-kanban](https://github.com/obsidian-community/obsidian-kanban)"
 ---
 ##### ℹ️ Description
 ---
